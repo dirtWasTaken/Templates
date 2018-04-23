@@ -115,6 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\TEMPLATE - Copy\Main.cpp" />
+    <ClCompile Include="..\..\TEMPLATE - Copy\Vector.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\TEMPLATE - Copy\Vector.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\TEMPLATE - Copy\Vector.inl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
